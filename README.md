@@ -1,4 +1,4 @@
-# wp_pool_photography
+# sass_quck_start_pack
 SASS quick starter pack
 
 ## Quick Overview
